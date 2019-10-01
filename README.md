@@ -32,15 +32,15 @@ What separates Convolutional Neural Networks from Artificial Neural Networks is 
 
 
 
-![Screenshot](../images/m4_acc.png)
+![](m5_acc.png)
 
-![Screenshot](../images/m4_loss.png)
+![](m5_loss.png)
 
 
 
 3000/3000 [==============================] - 1s 461us/sample - loss: 0.6773 - acc: 0.8687
 
-![Screenshot](../images/cm_5.png)
+![](cm_5.png)
 
 ## Results
 
